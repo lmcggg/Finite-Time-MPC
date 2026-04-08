@@ -74,6 +74,7 @@ finite_time_mpc_repro/
 | §VI-C multi-input | settling steps | ≤ 6 | 3 |
 | §VI-D nonlinear (no disturbance) | settling steps | ≤ 5 | 3 |
 | §VI-D nonlinear (with disturbance) | ultimate boundedness | ✓ | ✓ |
+<img width="1050" height="750" alt="example_a" src="https://github.com/user-attachments/assets/9135b482-eb9a-4883-bc5b-bc476b322edb" />
 
 ### Paper 2 [Zhu et al. 2026]
 
@@ -87,6 +88,7 @@ finite_time_mpc_repro/
 | §IV-B multi-input N=8 | u₂ | identically zero | identically zero |
 | §IV-C nonlinear N=8 | settling steps | 5 | 3 |
 | §IV-D bounded disturbance (10 trials) | ultimate boundedness | ✓ | mean \|x(T)\| ≈ 0.097 |
+<img width="1050" height="750" alt="example_h" src="https://github.com/user-attachments/assets/6d5f2260-d6b1-45af-bfcb-3c03d370a572" />
 
 ## Typos / Inconsistencies Found in the Papers
 
